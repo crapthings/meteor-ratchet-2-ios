@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Ratchicons';
+  src: url('/packages/crapthings_ratchet-2-ios/ratchet-2/fonts/ratchicons.eot');
+  src: url('/packages/crapthings_ratchet-2-ios/ratchet-2/fonts/ratchicons.eot?#iefix') format('embedded-opentype'), url('/packages/crapthings_ratchet-2-ios/ratchet-2/fonts/ratchicons.woff') format('woff'), url('/packages/crapthings_ratchet-2-ios/ratchet-2/fonts/ratchicons.ttf') format('truetype'), url('/packages/crapthings_ratchet-2-ios/ratchet-2/fonts/ratchicons.svg#svgFontName') format('svg');
+}
